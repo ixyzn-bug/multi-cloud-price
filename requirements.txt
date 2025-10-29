@@ -1,0 +1,10 @@
+
+---
+
+### File 2: `requirements.txt`
+```txt
+boto3
+requests
+google-cloud-billing
+pandas
+pyyaml
